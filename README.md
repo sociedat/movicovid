@@ -17,6 +17,7 @@ Es un proyecto que caracterizará el sector de la población que lamentablemente
 3. ENIGH para la caracterización de ingreso y gasto de destinos y origenes.
 4. Uber movement para validar que este conjunto es subconjunto de los datos de movilidad de FB
 5. SEMOVI para complementar viajes hacia y desde estaciones de metro o metrobús (Tláhuac, Iztapalapa pueden ser hotspots)
+6. EODH para validar si el subconjunto de MovFB pertenece al conjunto total descrito por la EODH
 
 ## Entregables y productos finales
 1. Sitio web dinámico con visualizaciones y productos editoriales atractivos:
