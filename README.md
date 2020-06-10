@@ -37,7 +37,7 @@ Es un proyecto que caracterizará el sector de la población que lamentablemente
 ## Organización
 1. Líder de Proyecto: Frida García
 2. Científica de Datos: Brenda Jiménez
-3. Ingeniero de Datos: Eddie Lozada
+3. Ingeniero de Datos: Eddie Lozada :)
 4. Las responsabilidades de Frida será establecer y validar preguntas de investigación, validación de producto y desarrollo de análisis.
 5. Las responsabilidades de Brenda será las de desarrollo de análisis, validación de hipótesis, desarrollo de modelos geoestadísticos, cruce de datos, y desarrollo de modelo no supervisado para agrupación y asociación de demográficos, sociográficos, económicos y de movilidad.
 4. Las responsabilidades de Eddie serán las de levantamiento de infraestructura, desarrollo de pipelines de adquisición y transformación de datos, pipelines de análisis, pipelines deejecución del modelo no supervisado, y desarrollo de plataforma de consulta.
