@@ -35,7 +35,7 @@ Es un proyecto que caracterizará el sector de la población que lamentablemente
 5. Desarrollo de producto de datos / editorial - 1 Agosto - 14 de Agosto
 
 ## Organización
-1. Líder de Proyecto: Frida García
+1. Líder de Proyecto: Frida García Celis
 2. Científica de Datos: Brenda Jiménez
 3. Ingeniero de Datos: Eddie Lozada :)
 4. Las responsabilidades de Frida será establecer y validar preguntas de investigación, validación de producto y desarrollo de análisis.
