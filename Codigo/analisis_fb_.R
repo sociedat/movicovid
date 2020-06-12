@@ -21,17 +21,6 @@ min(as.Date(data$fecha))
 max(as.Date(data$fecha))
 dir.create("graficas/08062020/")
 ###### lugares originales #####
-data_orig <- read_csv("out/movimientos_entre_administraciones_todo.csv", locale = locale(encoding = "Latin1"))
-starting_region_name_orig <- unique(data_orig$starting_region_name)
-ending_region_name_orig <- unique(data_orig$ending_region_name)
-
-tempo <- data %>% 
-         filter((starting_region_name %in% ending_region_name_orig) & 
-                        (ending_region_name %in% ending_region_name_orig))
- 
-end <- data.frame(start = tempo$starting_region_name, end = tempo$ending_region_name)
-end <- distinct(end)
-
 data <- tempo
 
 del <- c( "Álvaro Obregón", 
