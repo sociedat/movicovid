@@ -42,3 +42,27 @@ Es un proyecto que caracterizará el sector de la población que lamentablemente
 5. Las responsabilidades de Brenda será las de desarrollo de análisis, validación de hipótesis, desarrollo de modelos geoestadísticos, cruce de datos, y desarrollo de modelo no supervisado para agrupación y asociación de demográficos, sociográficos, económicos y de movilidad.
 4. Las responsabilidades de Eddie serán las de levantamiento de infraestructura, desarrollo de pipelines de adquisición y transformación de datos, pipelines de análisis, pipelines deejecución del modelo no supervisado, y desarrollo de plataforma de consulta.
 
+## Estructura de BD
+### Tabla 1: Movilidad
+- Coord tile origen
+- Coord tile destino
+- Num viajes
+- Num AGEBs en tile origen
+- Num AGEBs en tile destino
+
+### Tabla 3: Caracterización AGEBs
+- ID AGEB
+- Rezago social (CONEVAL)
+- DENUE (INEGI)
+- Población (INEGI)
+- Densidad? (INEGI)
+
+### Tabla 2: Tabla intermedia de relación
+- Coord tile origen
+- Coord tile destino
+- Población dentro de tile origen
+- Poblacion dentro de tile destino
+- ID AGEB mayor población en tile origen
+- ID AGEB mayor población en tile destino
+- Poblacion AGEB mayor población en tile origen
+- Poblacion AGEB mayor población en tile destino
